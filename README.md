@@ -18,6 +18,4 @@
    ### -DAY 0 ->  Linked Lists 
      Getting Some issues but will be making proper documentation
 =======
-   ### -DAY 0 ->  🔰Linked Lists
-
->>>>>>> c3a945e5265909c697277dd5e3943e199bbe4af1
+###- Day 1 -> Stacks and Queues
