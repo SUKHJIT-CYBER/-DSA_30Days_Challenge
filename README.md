@@ -16,6 +16,9 @@
    
 <<<<<<< HEAD
    ### -DAY 0 ->  Linked Lists 
-     Getting Some issues but will be making proper documentation
+     Getting Some issues but will be making proper documentation   
+     
+     Update ---
+     Now I am Back I will Be Starting aain on DSA
 =======
 ###  -Day 1 -> Stacks and Queues
